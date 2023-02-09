@@ -1,0 +1,24 @@
+2023-01-21 09:31:01.145 +05:30 [Information] Request starting HTTP/1.1 GET http://10.100.112.1:8062/YaypayInvoicing/YaypayInvoicing/api/v1.0/YaypayInvoices/SendEmail  
+2023-01-21 09:31:01.162 +05:30 [Information] Request starting HTTP/1.1 GET http://10.100.112.1:8062/YaypayInvoicing/YaypayInvoicing/api/v1.0/YaypayInvoices/SendEmail  
+2023-01-21 09:31:01.163 +05:30 [Information] Executing endpoint '"Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController.SendEmail (Connect.YaypayInvoicing.Api)"'
+2023-01-21 09:31:01.163 +05:30 [Information] Executing endpoint '"Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController.SendEmail (Connect.YaypayInvoicing.Api)"'
+2023-01-21 09:31:01.164 +05:30 [Information] Route matched with "{action = \"SendEmail\", controller = \"YaypayInvoices\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SendEmail()" on controller "Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController" ("Connect.YaypayInvoicing.Api").
+2023-01-21 09:31:01.164 +05:30 [Information] Route matched with "{action = \"SendEmail\", controller = \"YaypayInvoices\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SendEmail()" on controller "Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController" ("Connect.YaypayInvoicing.Api").
+2023-01-21 09:31:02.797 +05:30 [Information] "GetPendingYaypayInvoices"          :: "GetPendingYaypayInvoices", - TT[1.6332],ST["01/21 09:31:01:1645"],ET["09:31:02:7977"]
+2023-01-21 09:31:02.797 +05:30 [Information] "GetPendingYaypayInvoices"          :: "GetPendingYaypayInvoices", - TT[1.6332],ST["01/21 09:31:01:1645"],ET["09:31:02:7977"]
+2023-01-21 09:31:02.797 +05:30 [Information] "SendEmail"          :: "SendEmail", - TT[1.6334],ST["01/21 09:31:01:1645"],ET["09:31:02:7979"]
+2023-01-21 09:31:02.797 +05:30 [Information] "SendEmail"          :: "SendEmail", - TT[1.6334],ST["01/21 09:31:01:1645"],ET["09:31:02:7979"]
+2023-01-21 09:31:03.065 +05:30 [Information] "GetFileUplaodPath"          :: "GetFileUplaodPath", - TT[0.2674],ST["01/21 09:31:02:7980"],ET["09:31:03:0653"]
+2023-01-21 09:31:03.065 +05:30 [Information] "GetFileUplaodPath"          :: "GetFileUplaodPath", - TT[0.2674],ST["01/21 09:31:02:7980"],ET["09:31:03:0653"]
+2023-01-21 09:31:03.325 +05:30 [Information] "UpdateSchedulerTiming"          :: "UpdateSchedulerTiming", - TT[0.2598],ST["01/21 09:31:03:0656"],ET["09:31:03:3254"]
+2023-01-21 09:31:03.325 +05:30 [Information] "UpdateSchedulerTiming"          :: "UpdateSchedulerTiming", - TT[0.2598],ST["01/21 09:31:03:0656"],ET["09:31:03:3254"]
+2023-01-21 09:31:03.325 +05:30 [Information] "SendEmail"          :: "SendEmail", - TT[19802.1612],ST["01/21 04:01:01:1644"],ET["09:31:03:3256"]
+2023-01-21 09:31:03.325 +05:30 [Information] "SendEmail"          :: "SendEmail", - TT[19802.1612],ST["01/21 04:01:01:1644"],ET["09:31:03:3256"]
+2023-01-21 09:31:03.326 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2023-01-21 09:31:03.326 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2023-01-21 09:31:03.327 +05:30 [Information] Executed action "Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController.SendEmail (Connect.YaypayInvoicing.Api)" in 2163.105ms
+2023-01-21 09:31:03.327 +05:30 [Information] Executed action "Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController.SendEmail (Connect.YaypayInvoicing.Api)" in 2163.105ms
+2023-01-21 09:31:03.327 +05:30 [Information] Executed endpoint '"Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController.SendEmail (Connect.YaypayInvoicing.Api)"'
+2023-01-21 09:31:03.327 +05:30 [Information] Executed endpoint '"Connect.YaypayInvoicing.Api.Controllers.YaypayInvoicesController.SendEmail (Connect.YaypayInvoicing.Api)"'
+2023-01-21 09:31:03.327 +05:30 [Information] Request finished in 2182.5158ms 200 application/json; charset=utf-8
+2023-01-21 09:31:03.327 +05:30 [Information] Request finished in 2182.5158ms 200 application/json; charset=utf-8
